@@ -1,1 +1,2 @@
 # EDA-on-automobile-dataset
+To learn how to explore and analyze a real-world dataset using Python programming language and its data analysis libraries such as Pandas, NumPy, and Matplotlib and to gain expertise in various EDA techniques including data cleaning, data preprocessing, feature engineering, data visualization, and statistical analysis. To be able to interpret and communicate insights and inferences derived from the data analysis, and use them to draw meaningful conclusions.
